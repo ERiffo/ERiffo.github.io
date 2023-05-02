@@ -34,11 +34,11 @@ params:
       url: 'https://instagram.com/edu_riffo'
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://linkedin.com/in/eduardoriffo'
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+  homepage: "/trabajos" # homepage link, mostly same with menu.main[0]
   specialPages:
     - trabajos
     - archivo
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: false
@@ -60,7 +60,7 @@ permalinks:
 menu:
   main:
     - name: trabajos
-      url: /trabajos/
+      url: /tags/trabajos/
       weight: 1
     - name: cine
       url: /tags/cine/
