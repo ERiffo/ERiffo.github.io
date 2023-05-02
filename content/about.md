@@ -1,8 +1,8 @@
 ---
 images:
 - /images/about.png
-title: about
-url: about
+title: acerca
+url: acerca
 hideTitle: true
 hideExif: true
 hideDate: true
