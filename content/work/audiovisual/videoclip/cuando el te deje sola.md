@@ -8,11 +8,10 @@ tags:
 - trabajos
 - archivo
 - videoclip
+hidetitle: true
 ---
 
 ### Cuando él te deje sola
 Dirigido por Vicente Sepúlveda Sandoval.
 
 {{< youtube 6_PcPA_3he0 >}}
-
----

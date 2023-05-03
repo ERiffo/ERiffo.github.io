@@ -10,6 +10,7 @@ tags:
 - archivo # all posts
 - cine
 - audiovisual
+hidetitle: true
 ---
 
 ## Crybaby

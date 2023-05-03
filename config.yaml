@@ -27,9 +27,6 @@ params:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:eduardo.andresriffo@gmail.com'
       landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/ERiffo'
-      landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/edu_riffo'
     - icon: 'fab fa-linkedin-in fa-lg'
@@ -58,7 +55,7 @@ permalinks:
   work: ":filename/"
 
 menu:
-  main:
+  main: 
     - name: trabajos
       url: /tags/trabajos/
       weight: 1

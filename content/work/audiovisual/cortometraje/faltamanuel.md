@@ -9,6 +9,7 @@ tags:
 - archivo
 - cine
 - ficción
+hidetitle: true
 ---
 
 ## Falta Manuel
