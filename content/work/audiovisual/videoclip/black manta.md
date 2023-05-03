@@ -1,7 +1,7 @@
 ---
 weight: 6
 images:
-- /images/Afiche Black Manta W1ZRD.PNG
+- /images/Afiche Black Manta W1ZRD.png
 title: Black Manta
 date: 2022-07-23
 tags:
