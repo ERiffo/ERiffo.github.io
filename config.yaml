@@ -7,7 +7,7 @@ googleAnalytics: '' # todo: set your analytics id.
 params:
   image: /images/banner.png
   logo: logo.png # todo: add your custom logo to static/
-  subtitle: s. # todo: change default subtitle for your website.
+  subtitle: Portafolio virtual Eduardo Riffo Yáñez. # todo: change default subtitle for your website.
   copyright: Todos los derechos reservados. # todo: set your copyright type.
   author: Eduardo Andrés Riffo Yáñez # todo: set your full name.
   dontShowSource: false # please, do not do this :)
