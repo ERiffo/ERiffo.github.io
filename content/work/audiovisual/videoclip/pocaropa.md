@@ -1,9 +1,9 @@
 ---
-weight: 1
+weight: 3
 images:
 - /images/Afiche_PocaRopa_ScreamBloodySakura11.png
 title: Poca Ropa
-date: 2022-07-23
+date: 
 tags:
 - trabajos
 - archivo
@@ -15,4 +15,5 @@ hidetitle: true
 
 Dirigido por Vicente Sepúlveda Sandoval.
 
-{{< youtube 1V_8jdmMScE >}}
+{{< youtube id="1V_8jdmMScE" loading="lazy" >}}
+

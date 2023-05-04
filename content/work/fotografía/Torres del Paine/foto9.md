@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 9
 images:
 - /images/9.jpg
 title: Torres del Paine 9

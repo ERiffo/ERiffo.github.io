@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 7
 images:
 - /images/7.jpg
 title: Torres del Paine 7

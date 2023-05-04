@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 8
 images:
 - /images/8.jpg
 title: Torres del Paine 8

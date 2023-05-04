@@ -4,7 +4,7 @@ images:
 - /images/AFICHE_CRYBABY_CIAN-MAGENTA.png
 title: Crybaby
 multipleColumn: true
-date: 2022-07-23
+date: 
 tags:
 - trabajos # homepage
 - archivo # all posts

@@ -1,9 +1,9 @@
 ---
-weight: 1
+weight: 2
 images:
 - /images/Afiche oficial Falta Manuel.PNG
 title: Falta Manuel
-date: 2022-07-23
+date: 
 tags:
 - trabajos
 - archivo

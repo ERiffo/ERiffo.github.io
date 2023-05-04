@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 3
 images:
 - /images/3.jpg
 title: Torres del Paine 3

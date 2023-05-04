@@ -3,7 +3,7 @@ weight: 6
 images:
 - /images/Afiche Black Manta W1ZRD.png
 title: Black Manta
-date: 2022-07-23
+date: 
 tags:
 - trabajos
 - archivo
@@ -15,4 +15,4 @@ hidetitle: true
 
 Dirigido por Pablo Fergnani Sepúlveda y Fabián Jara Mesko.
 
-{{< youtube 3-w9g4TO6bQ >}}
+{{< youtube id="3-w9g4TO6bQ" loading="lazy" >}}

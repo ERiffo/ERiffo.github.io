@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 2
 images:
 - /images/2.jpg
 title: Torres del Paine 2

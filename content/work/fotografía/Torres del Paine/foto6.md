@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 6
 images:
 - /images/6.jpg
 title: Torres del Paine 6
