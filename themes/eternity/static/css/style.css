@@ -1,3 +1,7 @@
+* {
+  font-size: 1.25rem;
+}
+
 .title {
   color: var(--white);
   font-size: xx-large;
@@ -338,6 +342,7 @@ section .column img {
   margin-top: 20px;
   overflow: hidden;
   border: 0px;
+  box-shadow: inset 0 0 0 1px hsla(0, 0%, 100%, 0.1);
 }
 
 .image-box img {
@@ -345,6 +350,8 @@ section .column img {
   display: block;
   height: auto;
   transform: scale(1);
+  position: relative;
+  z-index: -2;
 }
 
 .image-box:hover img {
