@@ -11,7 +11,7 @@ tags:
 hidetitle: true
 ---
 
-## Poca Ropa
+## Black Manta
 
 Dirigido por Pablo Fergnani Sepúlveda y Fabián Jara Mesko.
 
