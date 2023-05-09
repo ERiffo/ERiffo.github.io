@@ -88,13 +88,11 @@
 }
 
 nav.navbar {
-  background-color: var(--dark);
-  justify-content: people-between;
+  background-color: var(--navbar);
+  justify-content: center;
   align-items: center;
   height: unset !important;
-  margin-left: 2em;
-  margin-right: 2em;
-  padding-top: 1em;
+  padding: 1em 2em 1em 2em;
 }
 
 .navbar-burger {
@@ -326,8 +324,10 @@ section .column img {
 }
 
 .footer {
-  background-color: var(--dark);
+  background-color: var(--footer);
+  margin-top: auto;
   color: rgb(245, 245, 245);
+  padding: 1em 2em 1em 2em;
 }
 
 .source-love {
