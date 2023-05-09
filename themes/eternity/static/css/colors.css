@@ -5,7 +5,7 @@
   --dark-light: #101010;
   --white: #eee;
   --grey: rgb(169, 169, 169);
-  --navbar: #000; /* Color de fondo de barra de navegación superior */
-  --footer: #000; /* Color de fondo del footer */
-  --content: #000; /* Color de fondo del centro */
+  --navbar: #00000044; /* Color de fondo de barra de navegación superior */
+  --footer: #00000044; /* Color de fondo del footer */
+  --content: #041405; /* Color de fondo del centro */
 }
